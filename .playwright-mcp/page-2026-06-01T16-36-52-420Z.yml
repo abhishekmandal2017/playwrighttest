@@ -1,0 +1,446 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - img "plansomLogo" [ref=e9]
+      - generic [ref=e11]:
+        - button "Log in" [ref=e12] [cursor=pointer]:
+          - generic [ref=e13]: Log in
+        - img [ref=e14] [cursor=pointer]
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e20]: Upload any document. Get an action plan in 60 seconds.
+        - heading "Imagine if all your ideas had action plans" [level=1] [ref=e22]:
+          - text: Imagine if all your ideas
+          - text: had
+          - generic [ref=e23]:
+            - text: action
+            - generic [ref=e24]: plans
+        - generic [ref=e26]:
+          - text: "You already have everything you need to succeed: the proposals, the call notes, the plans."
+          - text: Plansom turns all of that into action. In 60 seconds.
+      - generic [ref=e28]:
+        - generic [ref=e31]:
+          - button "file-text Browse Files" [ref=e32] [cursor=pointer]:
+            - img "file-text" [ref=e33]:
+              - img [ref=e34]
+            - generic [ref=e37]: Browse Files
+          - button "Generate plan" [disabled] [ref=e38]:
+            - generic:
+              - generic:
+                - img
+            - generic: Generate plan
+        - generic [ref=e39]: "Accepted file formats: csv, jpg, jpeg, docx, md, pdf, png, pptx, txt, xls, xlsx • Max 5 files, total 20 MB"
+        - generic [ref=e40]: 30 day free trial. Full access. No credit card required.
+  - generic [ref=e42]:
+    - heading "Turn Your Ideas Into Plans In 60 Seconds" [level=2] [ref=e43]
+    - generic [ref=e44]: At Plansom, we make achieving your goals simple and stress-free. Built to tackle the chaos of endless tasks and overwhelming priorities, Plansom helps you create clear, actionable plans in a minute.
+  - generic [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e56]: HOW IT WORKS
+      - heading "From any document to an action plan your team can act on" [level=2] [ref=e57]
+    - generic [ref=e58]:
+      - generic [ref=e59] [cursor=pointer]:
+        - generic [ref=e60]:
+          - img [ref=e61]
+          - generic [ref=e64]: "01"
+        - generic [ref=e65]:
+          - generic [ref=e66]: Upload anything
+          - generic [ref=e67]: Call notes, a strategy deck, an email thread, a spreadsheet. Plansom reads it and understands the context.
+      - generic [ref=e68] [cursor=pointer]:
+        - generic [ref=e69]:
+          - img [ref=e70]
+          - generic [ref=e72]: "02"
+        - generic [ref=e73]:
+          - generic [ref=e74]: Get a structured plan
+          - generic [ref=e75]: Plansom extracts goals, tasks and priorities, structured into a clear, actionable plan based on what actually works.
+      - generic [ref=e76] [cursor=pointer]:
+        - generic [ref=e77]:
+          - img [ref=e78]
+          - generic [ref=e80]: "03"
+        - generic [ref=e81]:
+          - generic [ref=e82]: Share and execute
+          - generic [ref=e83]: One link. Your whole team is aligned on what to do next. Plansom keeps everyone accountable as you go.
+  - generic [ref=e87]:
+    - generic [ref=e88]:
+      - img [ref=e90]
+      - generic [ref=e93]:
+        - generic [ref=e94]: 2.5h
+        - paragraph [ref=e95]:
+          - text: Lost every day to unclear
+          - text: priorities and reformatting plans
+    - generic [ref=e96]:
+      - img [ref=e98]
+      - generic [ref=e100]:
+        - generic [ref=e101]: 60%
+        - paragraph [ref=e102]:
+          - text: Of projects fail without a clear,
+          - text: shared plan to execute against
+    - generic [ref=e103]:
+      - img [ref=e105]
+      - generic [ref=e107]:
+        - generic [ref=e108]: 60s
+        - paragraph [ref=e109]:
+          - text: From any document to a shareable
+          - text: plan your whole team can act on
+  - main [ref=e111]:
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - heading "What our users say" [level=2] [ref=e115]
+        - generic [ref=e117]:
+          - img [ref=e119] [cursor=pointer]
+          - img [ref=e121] [cursor=pointer]
+      - generic [ref=e125]:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: We now turn proposals into something clients can react to, not just read.
+                  - separator
+                  - generic:
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Jared Smith, RampFuel
+                      - generic: RampFuel
+                    - generic:
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+        - generic [ref=e130]:
+          - generic [ref=e132]: As an AI first company, we're very picky about the tech we build our business on. What sets Plansom apart from other AI productivity tools is that it not only automates the trivial tasks, it helps the whole team work on the right things, achieve results and execute effectively. We have found it incredibly powerful
+          - separator [ref=e133]
+          - generic [ref=e134]:
+            - img [ref=e136]
+            - generic [ref=e137]:
+              - generic [ref=e138]: Allen Morgan
+              - generic [ref=e139]: Founder and CTO, Altien
+            - generic [ref=e140]:
+              - img [ref=e142]
+              - img [ref=e144]
+              - img [ref=e146]
+              - img [ref=e148]
+              - img [ref=e150]
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Plansom, the AI productivity engine, is easy to pick up and use straight away, even by entry level users. As you get more comfortable and experienced with the tool, its power becomes clear, as do the clear business outcomes
+                  - separator
+                  - generic:
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Dermot Hamblin
+                      - generic: Owner, Langdon Hamblin
+                    - generic:
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: We now turn proposals into something clients can react to, not just read.
+                  - separator
+                  - generic:
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Jared Smith, RampFuel
+                      - generic: RampFuel
+                    - generic:
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: As an AI first company, we're very picky about the tech we build our business on. What sets Plansom apart from other AI productivity tools is that it not only automates the trivial tasks, it helps the whole team work on the right things, achieve results and execute effectively. We have found it incredibly powerful
+                  - separator
+                  - generic:
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Allen Morgan
+                      - generic: Founder and CTO, Altien
+                    - generic:
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Plansom, the AI productivity engine, is easy to pick up and use straight away, even by entry level users. As you get more comfortable and experienced with the tool, its power becomes clear, as do the clear business outcomes
+                  - separator
+                  - generic:
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Dermot Hamblin
+                      - generic: Owner, Langdon Hamblin
+                    - generic:
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: We now turn proposals into something clients can react to, not just read.
+                  - separator
+                  - generic:
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Jared Smith, RampFuel
+                      - generic: RampFuel
+                    - generic:
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+  - generic [ref=e151]:
+    - img [ref=e153]
+    - generic [ref=e155]:
+      - paragraph [ref=e156]: Delegation will always be central to results. Plansom and Microsoft are working to make it simpler, faster and smarter, so teams can focus less on managing work and more on delivering it
+      - separator [ref=e157]
+      - generic [ref=e158] [cursor=pointer]:
+        - img [ref=e160]
+        - generic [ref=e161]: Microsoft
+  - generic [ref=e163]:
+    - generic [ref=e164]:
+      - heading "Your data. Protected" [level=2] [ref=e165]
+      - paragraph [ref=e166]: Your data is encrypted at rest and in transit and hosted on Microsoft Azure with data residency in your region. AI processing runs on Azure AI and is protected by Microsoft's terms and conditions. Plansom is built to SOC 2 and GDPR standards.
+    - img "Security" [ref=e168]
+  - generic [ref=e170]:
+    - generic [ref=e171]:
+      - generic [ref=e172]:
+        - heading "Scale when you win" [level=2] [ref=e173]:
+          - text: Scale
+          - img [ref=e176]
+          - text: when you win
+        - generic "billing period" [ref=e177]:
+          - button "Monthly" [ref=e178] [cursor=pointer]
+          - button "Annually" [ref=e179] [cursor=pointer]
+      - article [ref=e180]:
+        - heading "Free Plan" [level=3] [ref=e181]
+        - paragraph [ref=e182]: There will always be a completely free plan for Plansom. Ideal for individuals or small teams.
+        - heading "€0" [level=4] [ref=e183]
+        - button "Select Plan" [ref=e184] [cursor=pointer]:
+          - generic [ref=e185]: Select Plan
+        - generic [ref=e186]: Full access. No credit card required.
+        - generic [ref=e187]:
+          - generic [ref=e188]: "Included in the plan:"
+          - list [ref=e189]:
+            - listitem [ref=e190]:
+              - img [ref=e191]
+              - generic [ref=e194]: Sharing and delegation
+            - listitem [ref=e195]:
+              - img [ref=e196]
+              - generic [ref=e199]: 5 goals
+            - listitem [ref=e200]:
+              - img [ref=e201]
+              - generic [ref=e204]: 100 tasks
+            - listitem [ref=e205]:
+              - img [ref=e206]
+              - generic [ref=e209]: 1 AI Plan per month
+      - article [ref=e210]:
+        - heading "Pro Plan" [level=3] [ref=e212]
+        - paragraph [ref=e213]: Advanced tools & customization. Perfect for a complex environment for professionals and teams.
+        - heading "€25 Per User, Per Month" [level=4] [ref=e214]:
+          - text: €25
+          - generic [ref=e215]: Per User, Per Month
+        - button "30 days free trial" [ref=e216] [cursor=pointer]:
+          - generic [ref=e217]: 30 days free trial
+        - generic [ref=e218]: Full access. No credit card required.
+        - generic [ref=e219]:
+          - generic [ref=e220]: "Included in the plan:"
+          - list [ref=e221]:
+            - listitem [ref=e222]:
+              - img [ref=e223]
+              - generic [ref=e226]: Sharing and delegation
+            - listitem [ref=e227]:
+              - img [ref=e228]
+              - generic [ref=e231]: 1,000 goals
+            - listitem [ref=e232]:
+              - img [ref=e233]
+              - generic [ref=e236]: Unlimited tasks
+            - listitem [ref=e237]:
+              - img [ref=e238]
+              - generic [ref=e241]: Unlimited AI Plan
+            - listitem [ref=e242]:
+              - img [ref=e243]
+              - generic [ref=e246]: Unlimited AI Manage
+            - listitem [ref=e247]:
+              - img [ref=e248]
+              - generic [ref=e251]: Unlimited AI Execute
+            - listitem [ref=e252]:
+              - img [ref=e253]
+              - generic [ref=e256]: AI Reporting
+            - listitem [ref=e257]:
+              - img [ref=e258]
+              - generic [ref=e261]: Bottleneck alerts
+            - listitem [ref=e262]:
+              - img [ref=e263]
+              - generic [ref=e266]: Success metrics
+            - listitem [ref=e267]:
+              - img [ref=e268]
+              - generic [ref=e271]: Integrations
+    - generic [ref=e272]:
+      - generic [ref=e273]:
+        - heading "Plansom for Enterprise" [level=3] [ref=e274]
+        - paragraph [ref=e275]:
+          - text: Enterprise, agency and partner pricing is available on request.
+          - text: Contact sales to learn more about exclusive offers for Enterprise
+      - button "Contact sales" [ref=e276] [cursor=pointer]:
+        - generic [ref=e277]: Contact sales
+  - generic [ref=e283]:
+    - generic [ref=e284]:
+      - generic [ref=e285]: SHARING
+      - heading "Share exactly what matters" [level=2] [ref=e286]
+    - generic [ref=e287]: In Plansom, everything has its own link. Share a goal with a client, a task with a contractor or a message thread with anyone who needs context. They see exactly what is relevant to them, instantly, with no account required.
+  - generic [ref=e289]:
+    - heading "Questions & Answers" [level=2] [ref=e291]
+    - generic [ref=e293]:
+      - button "What types of documents can I upload?" [ref=e295] [cursor=pointer]:
+        - img [ref=e299]
+        - generic [ref=e300]: What types of documents can I upload?
+      - button "Do my clients need a Plansom account to view the plan?" [ref=e302] [cursor=pointer]:
+        - img [ref=e306]
+        - generic [ref=e307]: Do my clients need a Plansom account to view the plan?
+      - button "Is Plansom just another way to track tasks?" [ref=e309] [cursor=pointer]:
+        - img [ref=e313]
+        - generic [ref=e314]: Is Plansom just another way to track tasks?
+      - button "How is Plansom different from a project management tool?" [ref=e316] [cursor=pointer]:
+        - img [ref=e320]
+        - generic [ref=e321]: How is Plansom different from a project management tool?
+      - button "How long does it take to get started?" [ref=e323] [cursor=pointer]:
+        - img [ref=e327]
+        - generic [ref=e328]: How long does it take to get started?
+      - button "Is my data secure?" [ref=e330] [cursor=pointer]:
+        - img [ref=e334]
+        - generic [ref=e335]: Is my data secure?
+      - button "What happens when my 30-day trial ends?" [ref=e337] [cursor=pointer]:
+        - img [ref=e341]
+        - generic [ref=e342]: What happens when my 30-day trial ends?
+  - generic [ref=e344]:
+    - generic [ref=e345]:
+      - heading "Stop planning to plan. Start executing." [level=2] [ref=e346]:
+        - text: Stop planning to plan.
+        - text: Start executing.
+        - img [ref=e347]
+      - generic [ref=e348]:
+        - text: Upload your first document and see your strategy become an actionable
+        - text: plan in under a minute. No setup. No credit card.
+    - generic [ref=e350]:
+      - generic [ref=e353]:
+        - button "file-text Browse Files" [ref=e354] [cursor=pointer]:
+          - img "file-text" [ref=e355]:
+            - img [ref=e356]
+          - generic [ref=e359]: Browse Files
+        - button "Generate plan" [disabled] [ref=e360]:
+          - generic:
+            - generic:
+              - img
+          - generic: Generate plan
+      - generic [ref=e361]: "Accepted file formats: csv, jpg, jpeg, docx, md, pdf, png, pptx, txt, xls, xlsx • Max 5 files, total 20 MB"
+      - generic [ref=e362]: 30 day free trial. Full access. No credit card required.
+  - generic [ref=e363]:
+    - generic [ref=e364]:
+      - generic [ref=e365]:
+        - generic [ref=e366]:
+          - img "logo" [ref=e367]
+          - article [ref=e368]: 6th Floor,
+          - article [ref=e369]: South Bank House,
+          - article [ref=e370]: Barrow Street Dublin D04 TR29
+          - article [ref=e371]: "+35315262724"
+        - generic [ref=e372]:
+          - textbox "Stay up to date" [ref=e373]
+          - button "Subscribe" [ref=e375] [cursor=pointer]:
+            - generic [ref=e376]: Subscribe
+      - generic [ref=e377]:
+        - generic [ref=e378]:
+          - link "LinkedIn" [ref=e379] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/plansom/
+            - img "LinkedIn" [ref=e380]
+          - link "YouTube" [ref=e381] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Plansom
+            - img "YouTube" [ref=e382]
+          - link "Facebook" [ref=e383] [cursor=pointer]:
+            - /url: https://www.facebook.com/people/Plansom/61568509101315/
+            - img "Facebook" [ref=e384]
+          - link "Instagram" [ref=e385] [cursor=pointer]:
+            - /url: https://www.instagram.com/plansomapp/
+            - img "Instagram" [ref=e386]
+        - generic [ref=e387]:
+          - img "Microsoft" [ref=e388] [cursor=pointer]
+          - img "Google Play" [ref=e389] [cursor=pointer]
+          - img "Apple" [ref=e390] [cursor=pointer]
+    - generic [ref=e394]:
+      - generic [ref=e396]:
+        - button "About Us" [ref=e398] [cursor=pointer]:
+          - generic [ref=e399]: About Us
+        - button "Pricing" [ref=e401] [cursor=pointer]:
+          - generic [ref=e402]: Pricing
+        - button "Cookie policy" [ref=e404] [cursor=pointer]:
+          - generic [ref=e405]: Cookie policy
+        - button "Terms and conditions" [ref=e407] [cursor=pointer]:
+          - generic [ref=e408]: Terms and conditions
+        - button "Privacy policy" [ref=e410] [cursor=pointer]:
+          - generic [ref=e411]: Privacy policy
+      - paragraph [ref=e413]: © 2026 Plansom. All rights reserved.
