@@ -12,7 +12,7 @@ const config= defineConfig({
   reporter: [['line'], ['allure-playwright'], ['html']],
   use: {
     browserName:'chromium',
-    headless:false
+    headless:true
   },
 });
 
